@@ -1,0 +1,39 @@
+cd C:\react-course-project\indicision-app
+live-server public
+
+
+
+
+
+cd C:\react-course-project\indicision-app babel src/app.js --out-file=public/scripts/app.js --presets=env,react
+
+
+cd C:\react-course-project\indicision-app
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+
+
+
+
+
+cd C:\react-course-project\indicision-app
+yarn run serve
+
+
+
+cd C:\react-course-project\indicision-app
+yarn run build
+
+
+
+cd C:\react-course-project\expensify-app           
+
+yarn run dev-server
+
+//to run dev server
+
+expensify-app
+
+
+cd C:\react-course-project\expensify-app           
+
+yarn run dev-server
